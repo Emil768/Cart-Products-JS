@@ -1,6 +1,8 @@
 class Header {
 
-
+    handlerOpenShoppingPage() {
+        shopping.render();
+    }
     render(count) {
         const html = `
         <div class="header-container">
@@ -33,7 +35,7 @@ class Header {
               <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
             </li>
           </ul>
-          <div class = "header-counter">🛒 ${count}</div>
+          <div class = "header-counter  " data-target="#exampleModalPopovers" data-toggle="modal" ">🛒 ${count}</div>
           <form class="form-inline my-2 my-lg-0">
             <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
             <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>

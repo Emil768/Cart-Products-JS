@@ -34,58 +34,62 @@ const Catalog = [{
     },
     {
         id: 'el5',
-        name: 'Ноутбук Acer Aspire 3 A315-22-41AS черный',
+        name: '4.7" Смартфон Apple iPhone 6S 32 ГБ розовый',
         img: 'img/catalog/6s.png',
-        mark: 'Оценка товара: 4.1 из 5',
+        mark: 'Оценка товара: 2.8 из 5',
         price: 18299
 
     },
     {
         id: 'el6',
-        name: 'Ноутбук Acer Aspire 3 A315-22-41AS черный',
+        name: '4.7" Смартфон Apple iPhone 6S 32 ГБ розовый',
         img: 'img/catalog/6s.png',
-        mark: 'Оценка товара: 4.1 из 5',
-        price: 18299
+        mark: 'Оценка товара: 2.8 из 5',
+        price: 18000
+
 
     },
     {
         id: 'el7',
-        name: 'Ноутбук Acer Aspire 3 A315-22-41AS черный',
+        name: '4.7" Смартфон Apple iPhone 6S 32 ГБ розовый',
         img: 'img/catalog/6s.png',
-        mark: 'Оценка товара: 4.1 из 5',
-        price: 18299
+        mark: 'Оценка товара: 2.8 из 5',
+        price: 18000
+
 
     },
     {
         id: 'el8',
-        name: 'Ноутбук Acer Aspire 3 A315-22-41AS черный',
+        name: '4.7" Смартфон Apple iPhone 6S 32 ГБ розовый',
         img: 'img/catalog/6s.png',
-        mark: 'Оценка товара: 4.1 из 5',
-        price: 18299
+        mark: 'Оценка товара: 2.8 из 5',
+        price: 18000
 
     },
     {
         id: 'el9',
-        name: 'Ноутбук Acer Aspire 3 A315-22-41AS черный',
+        name: '4.7" Смартфон Apple iPhone 6S 32 ГБ розовый',
         img: 'img/catalog/6s.png',
-        mark: 'Оценка товара: 4.1 из 5',
-        price: 18299
+        mark: 'Оценка товара: 2.8 из 5',
+        price: 18000
 
     },
     {
         id: 'el10',
-        name: 'Ноутбук Acer Aspire 3 A315-22-41AS черный',
+        name: '4.7" Смартфон Apple iPhone 6S 32 ГБ розовый',
         img: 'img/catalog/6s.png',
-        mark: 'Оценка товара: 4.1 из 5',
-        price: 18299
+        mark: 'Оценка товара: 2.8 из 5',
+        price: 18000
+
 
     },
     {
         id: 'el11',
-        name: 'Ноутбук Acer Aspire 3 A315-22-41AS черный',
+        name: '4.7" Смартфон Apple iPhone 6S 32 ГБ розовый',
         img: 'img/catalog/6s.png',
-        mark: 'Оценка товара: 4.1 из 5',
-        price: 18299
+        mark: 'Оценка товара: 2.8 из 5',
+        price: 18000
+
 
     }
 ]
